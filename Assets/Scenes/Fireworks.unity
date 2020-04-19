@@ -40301,7 +40301,7 @@ MonoBehaviour:
   hdr: 1
   sepBlurSpread: 5
   quality: 1
-  bloomIntensity: 0.4
+  bloomIntensity: 1
   bloomThreshhold: 0.5
   bloomThreshholdColor: {r: 1, g: 1, b: 1, a: 1}
   bloomBlurIterations: 2
@@ -40335,7 +40335,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d1352984e3c6465088f6cc7c4ce6e22, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  glowIntensity: 1.55
+  glowIntensity: 1.25
   blurIterations: 10
   blurSpread: 1
   glowTint: {r: 1, g: 1, b: 1, a: 0}
@@ -40376,7 +40376,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d1352984e3c6465088f6cc7c4ce6e22, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  glowIntensity: 5
+  glowIntensity: 2
   blurIterations: 2
   blurSpread: 1
   glowTint: {r: 1, g: 1, b: 1, a: 0}
